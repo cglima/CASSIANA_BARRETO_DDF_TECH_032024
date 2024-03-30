@@ -24,6 +24,6 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 
 ## Item 2 - Sobre a Dadosfera - Integrar
 
-- [ ] Carregar a base de dados para a Plataforma Dadosfera
-- [ ] Catalogar as informações mais relevantes, seguindo boas práticas de Dicionário de Dados.
+- [x] Carregar a base de dados para a Plataforma Dadosfera
+- [x] Catalogar as informações mais relevantes, seguindo boas práticas de Dicionário de Dados.
 - [ ] Organizar os dados seguindo as definições comuns de um Data Lake
