@@ -23,7 +23,7 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 ## Item 2 - Sobre a Dadosfera - Integrar
 
 - [x] Carregar a base de dados para a Plataforma Dadosfera
-- [ ] **Bonus: Carregue seus dados numa base transacional SQL, importe para a Dadosfera e aplique uma microtransformação.**
+- [ ] **Bonus: Carregue seus dados numa base transacional SQL, importe para a Dadosfera e aplique uma microtransformação**
 
 ## Item 3 - Sobre a Dadosfera - Explorar
 
@@ -41,4 +41,15 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 - [x] Verificar as inconsistências e dados faltantes do dataset
 - [x] Responder a pergunta do Item 4 sobre Data Quality [Link para a resposta](resposta-item4.md)
 - [x] Gerar um relatório de **qualidade dos dados** [Link para o relatório qualidade dos dados](quality-date.ipynb)
+- [ ] **Bonus: Definir e implementar um Common Data Model para os dados utilizados**
+
+## Item 5 - Sobre o uso de GenAI e LLMs - Processar
+
 - [ ] Gerar features em cima de dados desestruturados com ajuda da IA
+- [ ] **Bonus: Usar Video ou Audio como exemplo deste item do case**
+
+## Item 6 - Sobre Modelagem de Dados
+
+- [ ] Criar uma modelagem seguindo os princípios de Kimball, Data Vault ou outro
+- [ ] Explicar e justificar o modelo criado com 2 visões finais dos dados
+- [ ] **Bonus: desenhe o diagrama representando as camadas finais do DW proposto.**
