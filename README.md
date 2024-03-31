@@ -54,3 +54,10 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 - [x] Explicar e justificar o modelo criado com 2 visões finais dos dados - [Link para a resposta](modelagem-dados.md)
 - [ ] **Bonus:** desenhe o diagrama representando as camadas finais do DW proposto
 
+## Item 7 -  Sobre Análise de Dados - Analisar
+
+- [x] Criar uma Coleção com o formato <nome> <sobrenome> - <mes_ano>
+- [x] Criar um dashboard que mostre uma análise das categorias e uma análise de série-temporal
+- [x] Salvar a Query SQL utilizada [Link para as queries SQL Dashboard](queriesdashboard.md)
+- [x] Salvar o print do resultado da query no documento markdown deste teste
+- [x] Criar, pelo menos, 5 visualizações/questões em cima dos dados, utilizando 5 tipos de visualizações diferentes
