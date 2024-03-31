@@ -10,7 +10,7 @@ Ciclo de vida dos dados
 
 - [Link para o projeto Kanban Board](https://github.com/users/cglima/projects/6/views/1)
   
-![Principais atividades deste Case Técnico](prints/project-kanban-board.png)
+![Principais atividades deste Case Técnico](prints/atividades-case.png)
 
 ## Item 1 - Sobre a Base de Dados
 
