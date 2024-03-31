@@ -27,6 +27,7 @@ LEFT JOIN "DADOSFERA_PRD_TREINAMENTOS"."PUBLIC"."TB__EOON5Z__FINAL_ADVENTURE_WOR
 SELECT SUM("PUBLIC"."TB__4P5ATN__FINAL_ADVENTURE_WORKS_VENDAS"."ORDERQUANTITY") AS "sum"
 FROM "DADOSFERA_PRD_TREINAMENTOS"."PUBLIC"."TB__4P5ATN__FINAL_ADVENTURE_WORKS_VENDAS"
 ```
+
 ![total pedidos](prints/totalpedidos.png)
 
 4. Total de vendas por mês
@@ -37,7 +38,7 @@ FROM "DADOSFERA_PRD_TREINAMENTOS"."PUBLIC"."TB__4P5ATN__FINAL_ADVENTURE_WORKS_VE
 LEFT JOIN "DADOSFERA_PRD_TREINAMENTOS"."PUBLIC"."TB__57WF9K__FINAL_ADVENTURE_WORKS_DATA" AS "Tb 57wf9k Final Adventure Works Data" ON "PUBLIC"."TB__4P5ATN__FINAL_ADVENTURE_WORKS_VENDAS"."DATA_PEDIDO" = "Tb 57wf9k Final Adventure Works Data"."DATA"
 ```
 
-![Total vendas por mês](prints/totalvendasmes.png)
+![Total vendas por mês](prints/totalvendaspormês.png)
 
 5. Vendas por gênero
 
