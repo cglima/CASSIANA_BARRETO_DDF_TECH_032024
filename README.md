@@ -61,3 +61,21 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 - [x] Salvar a Query SQL utilizada [Link para as queries SQL Dashboard](queriesdashboard.md)
 - [x] Salvar o print do resultado da query no documento markdown deste teste
 - [x] Criar, pelo menos, 5 visualizações/questões em cima dos dados, utilizando 5 tipos de visualizações diferentes
+
+[Link para o meu Metabase](https://metabase-treinamentos.dadosfera.ai/collection/417-cassiana-barreto-032024)
+
+## Item  8 - Sobre Pipelines
+
+- [ ] Criar um pipeline para processar os dados anteriores
+- [ ] Catalogar esse pipeline desenvolvido na Dadosfera
+
+## Item 9 - Sobre Data Apps
+
+- [ ] Criar um Data App utilizando Streamlit para explorar os dados anteriores
+  
+## Item 10 - Apresentação do Case
+
+- [x] Fazer a apresentação do Case
+- [ ] Gravar a apresentação do Case
+- [ ] Carregar o vídeo da apresentação do case no Youtube
+- [ ] Apresentar o case para o CEO e CTO da Dadosfera
