@@ -96,3 +96,5 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 - [x] Apresentar o case para o CEO e CTO da Dadosfera
 
 O vídeo da apresentação do case está disponível no [https://www.youtube.com/watch?v=4NDhbnZ5abE](https://www.youtube.com/watch?v=4NDhbnZ5abE)
+
+- [x] Teste técnico para analista de dados está disponível no [Respostas Teste Técnico](teste-tecnico.md)
