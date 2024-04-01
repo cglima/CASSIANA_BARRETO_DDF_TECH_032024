@@ -29,6 +29,7 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 
 - [x] Catalogar as informações mais relevantes, seguindo boas práticas de Dicionário de Dados.
 - [Link para acesso ao catalogo](https://app.dadosfera.ai/pt-BR/catalog/data-assets)
+  
 ![Algumas das tabelas do dataset catalogadas](prints/catálogo-dados.png)
 ![Mais detalhes de uma tabela](prints/detalhes_catalogo.png)
 
