@@ -1,6 +1,20 @@
 # Case Tecnico Base - v2.0 Dadosfera
 
-Ciclo de vida dos dados
+Bem-vindo ao caso de estudo técnico para Dadosfera versão 2.0. Este projeto tem como objetivo demonstrar as capacidades da Dadosfera, uma plataforma de dados, utilizando-a para explorar, integrar e transformar um conjunto de dados do mundo real. Usaremos o banco de dados Microsoft AdventureWorks para este estudo de caso. Este arquivo README serve como um guia para o projeto, delineando as tarefas concluídas e fornecendo links para recursos relevantes. Acompanhe-nos enquanto mergulhamos no mundo dos dados com a Dadosfera.
+
+- [Case Tecnico Base - v2.0 Dadosfera](#case-tecnico-base---v20-dadosfera)
+  - [Item 0 - Sobre Agilidade e Planejamento](#item-0---sobre-agilidade-e-planejamento)
+    - [Concepção e Planejamento](#concepção-e-planejamento)
+  - [Item 1 - Sobre a Base de Dados](#item-1---sobre-a-base-de-dados)
+  - [Item 2 - Sobre a Dadosfera - Integrar](#item-2---sobre-a-dadosfera---integrar)
+  - [Item 3 - Sobre a Dadosfera - Explorar](#item-3---sobre-a-dadosfera---explorar)
+  - [Item 4 - Sobre Data Quality](#item-4---sobre-data-quality)
+  - [Item 5 - Sobre o uso de GenAI e LLMs - Processar](#item-5---sobre-o-uso-de-genai-e-llms---processar)
+  - [Item 6 - Sobre Modelagem de Dados](#item-6---sobre-modelagem-de-dados)
+  - [Item 7 -  Sobre Análise de Dados - Analisar](#item-7----sobre-análise-de-dados---analisar)
+  - [Item  8 - Sobre Pipelines](#item--8---sobre-pipelines)
+  - [Item 9 - Sobre Data Apps](#item-9---sobre-data-apps)
+  - [Item 10 - Apresentação do Case](#item-10---apresentação-do-case)
 
 ## Item 0 - Sobre Agilidade e Planejamento
 
@@ -77,6 +91,8 @@ Escolhi a base de dados [Microsoft AdventureWorks - DataBase](https://learn.micr
 ## Item 10 - Apresentação do Case
 
 - [x] Fazer a apresentação do Case
-- [ ] Gravar a apresentação do Case
-- [ ] Carregar o vídeo da apresentação do case no Youtube
-- [ ] Apresentar o case para o CEO e CTO da Dadosfera
+- [x] Gravar a apresentação do Case
+- [x] Carregar o vídeo da apresentação do case no Youtube
+- [x] Apresentar o case para o CEO e CTO da Dadosfera
+
+O vídeo da apresentação do case está disponível no [https://www.youtube.com/watch?v=4NDhbnZ5abE](https://www.youtube.com/watch?v=4NDhbnZ5abE)
